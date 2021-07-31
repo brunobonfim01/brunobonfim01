@@ -2,14 +2,24 @@
  
  
 - 👀 I’m interested  em trabalhar  em Back-end
-- 🌱 Estudando Javascript e Python
+- 🌱 I'm learning Javascript e Python
+- 🗺️ I'm looking for an internship
 
-<div>
-  <a href="https://github.com/brunobonfim01">
-  <img height= "180em" src= "https://github-readme.stats.versel.app/api?username-brunobonfim01&show_icons=true&theme-dark&include_all_commits-true&count_private-true"/> 
-  <img height= "180em" src= "https://hithub-readme.stats.vercel.app/api/top-langs/?username-brunobonfim01&layout-compact&langs_count16&theme-dark"/>
-  
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true&theme=midnight-purple)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&theme=midnight-purple&layout=compact)](https://github.com/brunobonfim01/github-readme-stats)
+
+##
+
+
+
+
+
+
+
+
+
  
  
  
