@@ -1,7 +1,7 @@
  ## Olá, eu sou Bruno Bonfim
  
  
-- 👀 I’m interested  em trabalhar  em Back-end
+- 👀 I’m interested  in working with Back-End
 - 🌱 I'm learning Javascript e Python
 - 🗺️ I'm looking for an internship
 
