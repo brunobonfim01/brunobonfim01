@@ -54,8 +54,9 @@
 <!---
  ![Snake animation](https://github.com/brunobonfim01/brunobonfim01/blob/output/github-contribuition-grid-snake.svg)
 --->
+ <!---
  <div style="display: inline_bock"><br>
   <img align="right" alt"Dart-Vader"  src="https://discord.com/channels/646445435116060693/646445435116060707/hi.gif">
  </div>
- 
+ --->
  
