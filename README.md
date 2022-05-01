@@ -2,8 +2,8 @@
  
  
 - 👀 I’m interested  in working with Back-End
-- 🌱 I'm learning Javascript , Node.js , GraphQL , MySQL and Vue.js
-- 🗺️ I'm looking for an internship
+- 🌱 I'm learning .Net
+- 🗺️ I'm always learning
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true&theme=midnight-purple)
