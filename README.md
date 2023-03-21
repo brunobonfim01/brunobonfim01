@@ -14,7 +14,7 @@
 
 ##
 
-
+<!--
 <div>
   <a href="https://beacons.ai/brunobonfim01">
    
@@ -22,6 +22,8 @@
   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&layout=compact&langs_count=16&theme=midnight-purple"/>
 </di>
+
+-->
 
 ##
  
