@@ -5,26 +5,42 @@
 - 👨‍💻 I'm learning .NetCore and Asp.NetCore
 <!-- - 🗺️ I'm always learning -->
 
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true&theme=midnight-purple)
-</div>
-
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&theme=midnight-purple&layout=compact)](https://github.com/brunobonfim01/github-readme-stats)
-</div>
-
 ##
-
 <!--
 <div>
-  <a href="https://beacons.ai/brunobonfim01">
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true"/>
-  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&layout=compact&langs_count=16&theme=midnight-purple"/>
-</di>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true&theme=midnight-purple)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&theme=midnight-purple&layout=compact)
+</div>
 -->
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true&theme=midnight-purple&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true" />
+</picture>
+
+<picture>
+<source 
+  srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&theme=midnight-purple&layout=compact
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&theme=midnight-purple&layout=compact
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="top" height="195" src=https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&theme=midnight-purple&layout=compact />
+</picture>
+
+
+
 
 ##
  
@@ -64,13 +80,14 @@
 
 
 </div>
+
 <!--
  ![Snake animation](https://github.com/brunobonfim01/brunobonfim01/blob/output/github-contribuition-grid-snake.svg)
+-->
 
- <!---
+ <!--
  <div style="display: inline_bock"><br>
   <img align="right" alt"Dart-Vader"  src="https://discord.com/channels/646445435116060693/646445435116060707/hi.gif">
-
  </div>
  -->
  
