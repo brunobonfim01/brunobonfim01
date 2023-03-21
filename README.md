@@ -7,8 +7,9 @@
 
 <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobonfim01&show_icons=true&theme=midnight-purple)
+</div>
 
-
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobonfim01&theme=midnight-purple&layout=compact)](https://github.com/brunobonfim01/github-readme-stats)
 </div>
 
